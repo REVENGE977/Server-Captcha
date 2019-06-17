@@ -1,6 +1,6 @@
 # Server-Captcha
 - Protect Your Server From Automated Bots With Captcha Now !
-![captcha](https://cdn.discordapp.com/attachments/590252468475133953/590256839854129183/1024px-RecaptchaLogo.svg.png)
+![captcha](https://cdn.discordapp.com/attachments/590252468475133953/590258188788563974/discord-icon-7.png)
 
 # How Its Work ?
 - Its just use a random image from json file 
