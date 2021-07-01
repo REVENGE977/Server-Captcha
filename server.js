@@ -1,6 +1,6 @@
-
-//const fs = require('fs');
-
+const Discord = require("discord.js"); // discord.js v11
+const client = new Discord.Client();
+const fs = require('fs');
 
 
 const verifyj = JSON.parse(fs.readFileSync("./verify.json", "utf8"))
@@ -134,3 +134,5 @@ let rf = message.guild.roles.find('name', `${verifyj[message.guild.id].rolev}`)
     })
 }})                           
 
+
+client.login("PUT UR TOKEN HERE");
