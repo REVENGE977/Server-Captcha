@@ -1,7 +1,7 @@
 const Discord = require("discord.js"); // discord.js v11
 const client = new Discord.Client();
 const fs = require('fs');
-
+const prefix = "PREFIX HERE"
 
 const verifyj = JSON.parse(fs.readFileSync("./verify.json", "utf8"))
 
