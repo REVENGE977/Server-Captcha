@@ -2,7 +2,7 @@
 - Protect Your Server From Automated Bots With Captcha Now !
 ![captcha](https://cdn.discordapp.com/attachments/590252468475133953/590258188788563974/discord-icon-7.png)
 
-# How Its Work ?
+# How It Works ?
 - Its just use a random image from json file 
 and use it to verify the user 
 by enter the text in the image.
